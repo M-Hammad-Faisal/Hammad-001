@@ -10,7 +10,7 @@ Student of Computer Engineering at UET Lahore(2019-2023).
 
 ### Connect with me:
 
-[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/muhammad-hammad-faisal-746198196/]
+[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] <a href="https://www.linkedin.com/in/muhammad-hammad-faisal-746198196/">LinkedIn</a>
 
 <br />
 
