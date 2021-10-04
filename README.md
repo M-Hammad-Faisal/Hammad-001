@@ -7,6 +7,20 @@ Student of Computer Engineering at UET Lahore(2019-2023).
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hammad-001" alt="Hammad-001" /> </p>
 
+
+### Connect with me:
+
+[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Hammad-001's GitHub Stats" src="https://github-readme-stats.hammadfaisal178.vercel.app/api?username=Hammad-001&show_icons=true&hide_border=true" />
+
+</details>
+
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-001&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Hammad-001&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
