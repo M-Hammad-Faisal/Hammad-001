@@ -15,3 +15,16 @@ Student of Computer Engineering at UET Lahore(2019-2023).
 Hammad-001/Hammad-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Connect with me:
+
+[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Hammad-001's GitHub Stats" src="https://github-readme-stats.hammadfaisal178.vercel.app/api?username=Hammad-001&show_icons=true&hide_border=true" />
+
+</details>
