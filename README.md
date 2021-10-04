@@ -10,16 +10,10 @@ Student of Computer Engineering at UET Lahore(2019-2023).
 
 ### Connect with me:
 
-[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/muhammad-hammad-faisal-746198196/]
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Hammad-001's GitHub Stats" src="https://github-readme-stats.hammadfaisal178.vercel.app/api?username=Hammad-001&show_icons=true&hide_border=true" />
-
-</details>
 
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-001&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
