@@ -1,5 +1,5 @@
-<h3 align="center">👋 Hi, I'm Muhammad Hammad Faisal<h3>
-Student of Computer Engineering at UET Lahore(2019-2023).
+# 👋 Hi, I'm Muhammad Hammad Faisal
+## Student of Computer Engineering at UET Lahore(2019-2023).
 - 👀 I’m Currently Learning Web Development.
 - 🌱 I’m Currently Learning Machine Learning.
 - 💞️ I’m looking to collaborate on web development projects.
