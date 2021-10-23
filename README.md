@@ -13,7 +13,10 @@
 [<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/muhammad-hammad-faisal-746198196/" style="text-decoration:none; color:black;">Linkedin</a>]
 
 <br />
-
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-001&theme=dracula&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Hammad-001&count_private=true&hide_border=true&bg_color=0d1117&theme=dracula" />
+</p>
 <!---
 Hammad-001/Hammad-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
