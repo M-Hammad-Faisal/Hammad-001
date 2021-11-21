@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/muhammad-hammad-faisal-746198196/" style="text-decoration:none; color:black;">Linkedin</a>]
+[<img align="left" alt="Hammad-001 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/hammadfaisal178/" style="text-decoration:none; color:black;">Linkedin</a>]
 
 <br />
 <p align="center">
