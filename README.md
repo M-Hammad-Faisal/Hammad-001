@@ -1,5 +1,5 @@
 ## Hi 👋 I am Muhammad Hammad Faisal
-#### A Jr. Software Engineer learning new technologies to innovate the world.
+#### A Software Engineer learning new technologies to innovate the world.
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
